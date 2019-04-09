@@ -18,7 +18,7 @@ public class COLORS extends AppCompatActivity {
     private MediaPlayer media;
     private AudioManager maudio;
     /**
-     * This abc listener gets triggered whenever the audio focus changes
+     * This abc .listener gets triggered whenever the audio focus changes
      * (i.e., we gain or lose audio focus because of another app or device).
      */
     private AudioManager.OnAudioFocusChangeListener mOnAudioFocusChangeListener = new AudioManager.OnAudioFocusChangeListener() {
